@@ -6,4 +6,13 @@
  
  
  deploy Model On Streamlit Webapp 
+
+# Second task Completed 
+ task name : Un-Employment Analycis During COVID19 
+ Using modules : 
+ Numpy
+ Pandas 
+ Matplotlib
+ Pyplot
+ Plotly 
  
