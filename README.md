@@ -15,4 +15,24 @@
  Matplotlib
  Pyplot
  Plotly 
- 
+
+
+ # third task Completed 
+ task name : Car Price Prediction Using ML Model
+ Using modules : 
+ Numpy
+ Pandas 
+ Scikit-learn
+ pipeline
+ One Hot Encoder 
+ Linear Regression Algorithm Used 
+
+  
+ # fourth task Completed 
+ task name : E-mail Spam Classification 
+ Using modules : 
+ Numpy
+ Pandas 
+ Scikit-learn
+ Count-Vectorizer 
+ Naive-Bayes Algorithm Used for spam filtering 
